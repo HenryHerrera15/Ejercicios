@@ -1,0 +1,6 @@
+c:\users\estudiantes\documents\visual studio 2015\Projects\codigo2\codigo2\bin\Debug\codigo2.exe.config
+c:\users\estudiantes\documents\visual studio 2015\Projects\codigo2\codigo2\bin\Debug\codigo2.exe
+c:\users\estudiantes\documents\visual studio 2015\Projects\codigo2\codigo2\bin\Debug\codigo2.pdb
+c:\users\estudiantes\documents\visual studio 2015\Projects\codigo2\codigo2\obj\Debug\codigo2.csprojResolveAssemblyReference.cache
+c:\users\estudiantes\documents\visual studio 2015\Projects\codigo2\codigo2\obj\Debug\codigo2.exe
+c:\users\estudiantes\documents\visual studio 2015\Projects\codigo2\codigo2\obj\Debug\codigo2.pdb
